@@ -1,9 +1,9 @@
 :root {
     --background: rgb(37, 36, 36);
     --card-bg: rgb(206, 202, 211);
-    --chip-bg: #e4a985;
+    --chip-bg: blue;
     --border: #A4A4AA;
-    --text: #070718;
+    --text: #e3e3ea;
     --text-dark: #e5e5f0;
     --primary: #378042;
 }
@@ -38,7 +38,7 @@ body {
     flex-wrap: wrap;
     border-radius: 1.5rem;
     /* background: var(--card-bg); */
-    background-color:rgb(189, 179, 184);
+    background-color:black;
     cursor: pointer;
     overflow: hidden;
     color: var(--text);
